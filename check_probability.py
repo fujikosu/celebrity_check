@@ -1,6 +1,6 @@
 import http.client, urllib.request, urllib.parse, urllib.error, base64, json
 
-SUBSCRIPTION_KEY = "57026353c23641f69436959df0ebb6c4"
+SUBSCRIPTION_KEY = "Your key"
 
 # Query the face and get analized data
 def detect_face(url):
